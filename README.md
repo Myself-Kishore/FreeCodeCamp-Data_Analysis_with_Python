@@ -1,3 +1,7 @@
 
-![Certificate](Data_Analysis_with_Python_.png)
-https://freecodecamp.org/certification/SohatejNagaKishore/data-analysis-with-python-v7
+![Certificate](Data_Analysis_With_Python_.png)
+<center>
+  <a href="https://freecodecamp.org/certification/SohatejNagaKishore/data-analysis-with-python-v7">Data Analysis with Python Certification</a>
+</center>
+
+
